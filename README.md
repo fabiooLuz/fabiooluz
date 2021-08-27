@@ -3,13 +3,10 @@
 ## Ola! Eu sou o Fábio Luz 👋 
 
 
-### Sou Graduando em Análise e Desenvolvimento de Sistemas.
+### Graduado em Análise e Desenvolvimento de Sistemas.
 
-Tenho tido como foco de estudos as tecnologias de Front-end e atualmente trabalho como estagiário de TI, 
-Tendo como principal tarefa suporte ao usuário. 
-Busco por oportunidades como Analista desenvolvedor Júnior ou estágio na área de Desenvolvimento de Sistemas.
 
-##
+## Analista de Dados na ao3
 
 
  <div>
