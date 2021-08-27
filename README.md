@@ -6,7 +6,9 @@
 ### Graduado em Análise e Desenvolvimento de Sistemas.
 
 
-## Analista de Dados na ao3
+### Analista de Dados na ao3
+
+*** Analista de Dados na ao3
 
 
  <div>
